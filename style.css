@@ -1,0 +1,25 @@
+body {
+    background-color: #add8e6;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.input-box {
+    margin-top: 20px;
+}
+
+.output-box {
+    margin-top: 20px;
+}
+
+textarea {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    margin-top: 20px;
+}
